@@ -1,7 +1,5 @@
 # Homework from Deep Learning Courses
 
-One Paragraph of project description goes here
-
 ## 1、基于CNN的手写数字识别实验
 
 本文基于改版的 AlexNet 经典卷积神经网络针对手写数字识别问题进行实验分析。基础的 AlexNet 是 2012 年 ImageNet 竞赛冠军获得者 Hinton 和他的学生Alex Krizhevsky 设计的。本文将 AlexNet 进行一定程度的改进，将其适用于处理MNIST 数据集的训练和测试，模型最终在测试集上的准确率达到 98.6%。
@@ -20,32 +18,6 @@ One Paragraph of project description goes here
 
 
 
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* **Liangyu Chen** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
