@@ -20,4 +20,4 @@
 
 ## Authors
 
-* **Liangyu Chen** - *Initial work* - [PurpleBooth](https://github.com/Chenliangyu0819)
+* **Liangyu Chen**  - [A beginner of deep learning](https://github.com/Chenliangyu0819)
