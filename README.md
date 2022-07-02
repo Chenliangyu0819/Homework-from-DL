@@ -20,4 +20,4 @@
 
 ## Authors
 
-* **Liangyu Chen** - *Initial work* - [PurpleBooth]([https://github.com/PurpleBooth](https://github.com/Chenliangyu0819))
+* **Liangyu Chen** - *Initial work* - [PurpleBooth](https://github.com/Chenliangyu0819)
